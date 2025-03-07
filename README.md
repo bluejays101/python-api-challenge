@@ -1,2 +1,7 @@
-# python-api-challenge
-UofT Bootcamp 2024/25 python api challenge
+# python-api-challenge 🌤️🌩️☃️
+University of Toronto Bootcamp Module 6 Assignment
+
+WeatherPy.ipynb
+VacationPy.ipynb
+
+Cities.csv and figures relevant to WeatherPy are stored in output_data directory.
